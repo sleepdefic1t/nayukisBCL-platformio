@@ -1,0 +1,3 @@
+[submodule "src/Bitcoin-Cryptography-Library"]
+	path = src/Bitcoin-Cryptography-Library
+	url = https://github.com/nayuki/Bitcoin-Cryptography-Library
