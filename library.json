@@ -1,0 +1,13 @@
+{
+    "name": "nayukisBCL",
+    "keywords": "crypto, "cryptography", ECDSA, ECDH", "bitcoin", "ethereum", "litecoin", "ark"
+    "description": "PlatformIO Wrapper forNayuki's Bitcoin Cryptography Library",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/sleepdefic1t/nayukisBCL-platformio"
+    },
+    "frameworks": "*",
+    "platforms": "*",
+    "include": "src/Bitcoin-Cryptography-Library"
+}
